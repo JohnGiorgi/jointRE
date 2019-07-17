@@ -1,5 +1,7 @@
 # End-to-end neural relation extraction using deep biaffine attention
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/end-to-end-neural-relation-extraction-using/relation-extraction-on-conll04)](https://paperswithcode.com/sota/relation-extraction-on-conll04?p=end-to-end-neural-relation-extraction-using)
+
 This program provides an implementation of a neural network model for joint extraction of named entities and their semantic relations,  as described in [my paper](https://arxiv.org/abs/1812.11275):
 
     @InProceedings{NguyenV_ECIR2019,
